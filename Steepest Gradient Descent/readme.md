@@ -8,4 +8,4 @@ $\tau  = \mathop {\arg \min }\limits_\alpha  f({x^k} + \alpha d)$
 
 使用armijo condition的最速梯度下降法，步长更新算法为：
 
-$\[\tau  \in \left\{ {\alpha |f({x^k}) - f({x^k} + \alpha d) \ge  - c \cdot \alpha {d^T}\nabla f({x^k})} \right\}\]$
+\[\tau  \in \left\{ {\alpha |f({x^k}) - f({x^k} + \alpha d) \ge  - c \cdot \alpha {d^T}\nabla f({x^k})} \right\}\]
