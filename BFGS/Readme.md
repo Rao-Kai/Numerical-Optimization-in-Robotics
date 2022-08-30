@@ -1,4 +1,4 @@
-### weak_wolf condition:
+### weak_wolfe condition:
 
 $f({x^k}) - f({x^k} + \alpha d) \ge  - c_1 \cdot \alpha {d^T}\nabla f({x^k})$
 
